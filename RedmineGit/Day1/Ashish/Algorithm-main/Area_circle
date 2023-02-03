@@ -1,0 +1,5 @@
+//calculate Area of circle
+
+step1:Input value of radius.
+step2:Calculate Area = 3.14 *Radius*Radius.
+step3:Print Area.

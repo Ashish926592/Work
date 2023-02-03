@@ -1,0 +1,10 @@
+//sum of evevn number
+
+step1:take a n input.
+step2:initialize i=0 and sum = 0.
+step3:if i<n then go to step5  else step4.
+step4:print sum.
+step5:if i%2 == 0 go to step6 else step7.
+step6:perform sum = sum+i.
+step7:perform i = i + 1.
+step8:repeat step3 to step step7.
